@@ -1,5 +1,12 @@
 # Sistema de Telemetria e Monitoramento Espacial Autônomo
 
+## Integrantes do Grupo (Turma 1CC)
+
+    Cristhian Henrique Clementino - RM: 574117
+
+    Diego de Oliveira Brandão - RM: 569773
+
+
 ## Descrição do Projeto
 Este projeto constitui a entrega oficial da Global Solution 2026 para a disciplina de Soluções em Energias Renováveis e Sustentáveis, desenvolvido por alunos da turma 1CCPW.
 
