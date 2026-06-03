@@ -21,7 +21,7 @@ A aplicação foi construída em conformidade estrita com as especificações ex
 * **Tomada de Decisão Autônoma (Inovação):** Mecanismos inteligentes que atuam de forma automática para salvaguardar a missão: desativação programada de subsistemas secundários (como pesquisas biológicas) para reduzir o consumo de kW ou interrupção instantânea da propulsão principal para viabilizar o resfriamento de emergência.
 * **Interface Otimizada (Usabilidade):** Painel de visualização estruturado de forma puramente textual no terminal, limpo, sem o uso de caracteres informais (emojis) e padronizado com formatação de precisão numérica (uma casa decimal).
 
-## Como Executar o Sistema
+## Sistema
 
 O ecossistema do script utiliza estritamente as bibliotecas nativas da linguagem Python (`time` e `random`), o que anula a necessidade de instalação de dependências ou pacotes externos através de gerenciadores.
 
