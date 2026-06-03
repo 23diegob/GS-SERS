@@ -1,10 +1,9 @@
 # Sistema de Telemetria e Monitoramento Espacial Autônomo
 
-## Integrantes do Grupo (Turma 1CC)
+## Integrantes do Grupo
 
-    Cristhian Henrique Clementino - RM: 574117
-
-    Diego de Oliveira Brandão - RM: 569773
+Cristhian Henrique Clementino - RM: 574117
+Diego de Oliveira Brandão - RM: 569773
 
 
 ## Descrição do Projeto
