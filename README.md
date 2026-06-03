@@ -1,7 +1,7 @@
 # Sistema de Telemetria e Monitoramento Espacial Autônomo
 
 ## Descrição do Projeto
-Este projeto constitui a entrega oficial da Global Solution 2026 para a disciplina de Soluções em Energias Renováveis e Sustentáveis, desenvolvido pelos alunos da turma 1CC (Ciência da Computação). 
+Este projeto constitui a entrega oficial da Global Solution 2026 para a disciplina de Soluções em Energias Renováveis e Sustentáveis, desenvolvido por alunos da turma 1CCW.
 
 O software consiste em um sistema computacional inteligente projetado para receber, interpretar e exibir dados simulados de telemetria de uma missão aeroespacial experimental. O núcleo da aplicação foca na gestão da sustentabilidade e eficiência energética da nave, aplicando estruturas lógicas para a tomada de decisões e respostas automatizadas de segurança diante de incidentes críticos simulados.
 
