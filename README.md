@@ -25,6 +25,4 @@ A aplicação foi construída em conformidade estrita com as especificações ex
 
 O ecossistema do script utiliza estritamente as bibliotecas nativas da linguagem Python (`time` e `random`), o que anula a necessidade de instalação de dependências ou pacotes externos através de gerenciadores.
 
-1. Efetue o clone deste repositório público em seu ambiente local:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+
