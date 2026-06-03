@@ -25,10 +25,6 @@ A aplicação foi construída em conformidade estrita com as especificações ex
 
 O ecossistema do script utiliza estritamente as bibliotecas nativas da linguagem Python (`time` e `random`), o que anula a necessidade de instalação de dependências ou pacotes externos através de gerenciadores.
 
----
-
-### 3. 💻 Código-Fonte Final Completamente Corrigido (`telemetria.py`)
-*Este código já está configurado com as atualizações de dados fixadas em **1 segundo** (`time.sleep(1)`). Dessa forma, quando você for realizar a gravação da tela, as variações de falha de conexão e superaquecimento acontecerão de maneira rápida na tela, permitindo concluir o vídeo dentro do limite máximo de 3 minutos.*
 
 ```python
 import random
